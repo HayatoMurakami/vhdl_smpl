@@ -1,0 +1,5 @@
+NET "x2" LOC=C14;
+NET "x1" LOC=D14;
+NET "x0" LOC=A10;
+NET "y[1]" LOC=N12;
+NET "y[0]" LOC=P16;
